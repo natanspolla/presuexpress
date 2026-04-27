@@ -10,7 +10,7 @@ from itertools import product
 # CONFIGURACIÓN
 # ─────────────────────────────────────────────
 st.set_page_config(
-    page_title="Presupuesto Abierto — Consultor",
+    page_title="Presupuesto Express",
     page_icon="🏛️",
     layout="wide",
 )
