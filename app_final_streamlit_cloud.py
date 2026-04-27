@@ -212,7 +212,7 @@ st.markdown("""
 st.markdown("""
 <div class="header-box">
   <h1 style="font-size:1.8rem; margin:0; color:#e6edf3;">
-    🏛️ Presupuesto Abierto — Consultor
+    🧮 Presupuesto Abierto — Express
   </h1>
   <p style="color:#8b949e; font-size:0.9rem; margin:4px 0 0 0; font-family:'IBM Plex Mono', monospace;">
     API v1 · presupuestoabierto.gob.ar
